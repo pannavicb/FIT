@@ -29,6 +29,7 @@ module.exports = {
   | Array - An array of allowed methods
   |
   */
+  origin: '*',
   methods: ['GET', 'PUT', 'PATCH', 'POST', 'DELETE'],
 
   /*

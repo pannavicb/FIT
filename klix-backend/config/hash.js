@@ -46,4 +46,6 @@ module.exports = {
   argon: {
     type: 1
   }
+
+
 }
